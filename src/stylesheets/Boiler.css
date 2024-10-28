@@ -7,6 +7,5 @@
 @import "./BoilerTypography.css";
 
 * {
-  overflow: hidden;
   margin: 0px;
 }
