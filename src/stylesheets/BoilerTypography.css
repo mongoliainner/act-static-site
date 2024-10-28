@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Pragmatica-Book.ttf") format("truetype");
+}
+
+body {
+  font-family: "Inter";
+}
