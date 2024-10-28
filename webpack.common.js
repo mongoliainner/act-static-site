@@ -22,7 +22,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: "./src/index.html",
+      template: "./dist/index.html",
       filename: "index.html", // this should create an index.html in the dist folder
     }),
   ],
