@@ -1,4 +1,3 @@
-/* Sizing */
 @import "./BoilerSizing.css";
 
 /*Colors*/
@@ -6,3 +5,8 @@
 
 /* Typography */
 @import "./BoilerTypography.css";
+
+* {
+  overflow: hidden;
+  margin: 0px;
+}

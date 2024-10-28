@@ -1,8 +1,78 @@
 @font-face {
-  font-family: "Inter";
+  font-family: "Pragmatica";
   src: url("../fonts/Pragmatica-Book.ttf") format("truetype");
 }
 
 body {
-  font-family: "Inter";
+  font-family: "Pragmatica";
+}
+
+.caption {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 600;
+}
+.footnote {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+.base {
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+}
+
+* {
+  overflow: hidden;
+}
+
+h6 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+}
+h5 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+}
+h4 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 500;
+}
+h3 {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 500;
+}
+h2 {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+}
+h1 {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 500;
+}
+.TitleSmall {
+  font-size: 3.75rem;
+  line-height: 1;
+  font-weight: 500;
+}
+.Title {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 500;
+}
+.TitleMedium {
+  font-size: 6rem;
+  line-height: 1;
+  font-weight: 500;
+}
+.TitleLarge {
+  font-size: 8rem;
+  line-height: 1;
+  font-weight: 500;
 }
