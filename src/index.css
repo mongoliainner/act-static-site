@@ -137,4 +137,9 @@ html {
   background-color: var(--zinc-800);
   width: 100%;
   padding: var(--size-2);
+  height: 30dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
 }
